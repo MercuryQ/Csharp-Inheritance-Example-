@@ -1,0 +1,7 @@
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\bin\Debug\Animal Kingdom.exe.config
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\bin\Debug\Animal Kingdom.exe
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\bin\Debug\Animal Kingdom.pdb
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\obj\Debug\Animal Kingdom.csprojResolveAssemblyReference.cache
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\obj\Debug\Animal Kingdom.csproj.CoreCompileInputs.cache
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\obj\Debug\Animal Kingdom.exe
+C:\Users\Gamer1\Desktop\github uploads\Animal Kingdom\Animal Kingdom\obj\Debug\Animal Kingdom.pdb
